@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://default_models/vrm-samples/vroid/vivi/Vivi.glb" type="PackedScene" id=1]
+
+[node name="Vivi" instance=ExtResource( 1 )]
